@@ -212,6 +212,11 @@ body {
   position: relative;
   top: 23%;
 }
+#inner_circle_big {
+  /* height: 15em; */
+  position: relative;
+  top: 18%;
+}
 
 .social-icon {
   display:inline-block;
