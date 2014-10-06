@@ -32,7 +32,7 @@ body {
   height: 100%;
   background-color: #000;
 
-  background: url('../../bootstrap/assets/little.jpg') no-repeat center center fixed;
+  background: url('../../bootstrap/assets/greatwall_mini_mini.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -52,7 +52,7 @@ only screen and (min-device-pixel-ratio: 1.5) {
     height: 100%;
     background-color: #000;
 
-    background: url('../../bootstrap/assets/little@2x.jpg') no-repeat center center fixed;
+    background: url('../../bootstrap/assets/greatwall_mini_mini.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -61,7 +61,7 @@ only screen and (min-device-pixel-ratio: 1.5) {
 }
 
 body {
-  color: #ddd;
+  color: #FFF;
   text-align: center;
   /* text-shadow: 0 1px 5px rgba(0,0,0,.5); */
   /* box-shadow: inset 0 0 600px rgba(0,0,0,0.8); */
@@ -202,7 +202,7 @@ body {
   margin: auto;
   width: 35em;
   height: 35em;
-  background: rgba(0,0,0,0.6);
+  background: rgba(183,193,30,0.7);
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   border-radius: 50%;
@@ -241,7 +241,14 @@ body {
 }
 
 .lead {
-  font-weight: 300;
+  font-weight: 400;
 }
+
+
+#pwd {
+  background-color: rgba(160,170,17,0.9);
+  color: #FFF;
+}
+
 
 
