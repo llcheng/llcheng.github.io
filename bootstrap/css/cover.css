@@ -32,7 +32,7 @@ body {
   height: 100%;
   background-color: #000;
 
-  background: url('../../bootstrap/assets/greatwall_mini_mini.jpg') no-repeat center center fixed;
+  background: url('../../bootstrap/assets/GreatWall_mini_mini.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -52,7 +52,7 @@ only screen and (min-device-pixel-ratio: 1.5) {
     height: 100%;
     background-color: #000;
 
-    background: url('../../bootstrap/assets/greatwall_mini_mini@2x.jpg') no-repeat center center fixed;
+    background: url('../../bootstrap/assets/GreatWall_mini_mini@2x.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
